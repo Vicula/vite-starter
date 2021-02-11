@@ -1,1 +1,5 @@
-# Cherry Blossoms Scene
+# Vite Starter App
+
+yarn install
+
+yarn dev
